@@ -20,23 +20,28 @@
     "contentful": "^7.14.6",
     "dotenv": "^8.2.0",
     "git": "^0.1.5",
+    "gray-matter": "^4.0.2",
     "netlify-plugin-onboarding": "^1.0.0",
     "next": "^9.3.3",
     "next-redux-wrapper": "^6.0.0",
+    "node-glob": "^1.2.0",
     "node-sass": "^4.13.0",
     "prop-types": "^15.7.2",
+    "raw-loader": "^4.0.0",
     "react": "^16.12.0",
     "react-collapse": "^5.0.1",
     "react-dom": "^16.12.0",
     "react-id-swiper": "^2.4.0",
     "react-lottie": "^1.2.3",
+    "react-markdown": "^4.3.1",
     "react-redux": "^7.2.0",
     "react-scroll": "^1.7.16",
     "react-transition-group": "^4.3.0",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "sass": "^1.26.11",
-    "swiper": "^5.2.1"
+    "swiper": "^5.2.1",
+    "webpack": "^4.42.1"
   },
   "devDependencies": {
     "@chec/seeder": "^1.1.0",
@@ -49,6 +54,7 @@
     "eslint-plugin-import": "2.x",
     "eslint-plugin-jsx-a11y": "6.x",
     "eslint-plugin-react": "7.x",
-    "eslint-plugin-react-hooks": "2.x"
+    "eslint-plugin-react-hooks": "2.x",
+    "prettier": "^1.18.2"
   }
 }
